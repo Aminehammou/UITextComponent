@@ -1,0 +1,17 @@
+{
+  "name": "UITextComponent",
+  "version": "1.0.0",
+  "description": "Classe de base pour les composants UI contenant du texte.",
+  "keywords": [
+    "ui",
+    "component",
+    "text"
+  ],
+  "authors": [],
+  "license": "MIT",
+  "dependencies": {
+    "Aminehammou/UIComponent": "https://github.com/Aminehammou/UIComponent.git",
+    "UITypes": "*",
+    "U8g2_for_TFT_eSPI": "*"
+  }
+}
