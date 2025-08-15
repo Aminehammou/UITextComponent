@@ -7,7 +7,16 @@
     "component",
     "text"
   ],
-  "authors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aminehammou/UITextComponent.git"
+  },
+  "authors": [
+    {
+      "name": "Hammou Mohammed el Amine",
+      "email": "hammouamine@gmail.com"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "Aminehammou/UIComponent": "https://github.com/Aminehammou/UIComponent.git",
